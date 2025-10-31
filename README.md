@@ -1,3 +1,4 @@
 # r-data-analysis
 This is my first Git Repository
-Author- Abhishek S. Prasad
+Author- Abhishek Prasad
+
